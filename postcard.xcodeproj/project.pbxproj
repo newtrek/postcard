@@ -13,6 +13,8 @@
 		0789244A1B953BAA003F6FD7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 078924491B953BAA003F6FD7 /* Images.xcassets */; };
 		0789244D1B953BAA003F6FD7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0789244B1B953BAA003F6FD7 /* LaunchScreen.xib */; };
 		078924591B953BAA003F6FD7 /* postcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078924581B953BAA003F6FD7 /* postcardTests.swift */; };
+		078924631B9540CB003F6FD7 /* IMG_0278.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 078924621B9540CB003F6FD7 /* IMG_0278.jpg */; };
+		078924651B9547D3003F6FD7 /* IMG_0279.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 078924641B9547D3003F6FD7 /* IMG_0279.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		078924521B953BAA003F6FD7 /* postcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = postcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		078924571B953BAA003F6FD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		078924581B953BAA003F6FD7 /* postcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postcardTests.swift; sourceTree = "<group>"; };
+		078924621B9540CB003F6FD7 /* IMG_0278.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0278.jpg; sourceTree = "<group>"; };
+		078924641B9547D3003F6FD7 /* IMG_0279.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0279.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		078924401B953BAA003F6FD7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				078924621B9540CB003F6FD7 /* IMG_0278.jpg */,
+				078924641B9547D3003F6FD7 /* IMG_0279.jpg */,
 				078924411B953BAA003F6FD7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +198,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				078924631B9540CB003F6FD7 /* IMG_0278.jpg in Resources */,
+				078924651B9547D3003F6FD7 /* IMG_0279.jpg in Resources */,
 				078924481B953BAA003F6FD7 /* Main.storyboard in Resources */,
 				0789244D1B953BAA003F6FD7 /* LaunchScreen.xib in Resources */,
 				0789244A1B953BAA003F6FD7 /* Images.xcassets in Resources */,
